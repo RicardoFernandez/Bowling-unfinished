@@ -1,0 +1,10 @@
+C:\Users\Ricardo Fernández\source\repos\BowlingGameKata\BowlingGameKata\bin\Debug\BowlingGameKata.exe.config
+C:\Users\Ricardo Fernández\source\repos\BowlingGameKata\BowlingGameKata\bin\Debug\BowlingGameKata.exe
+C:\Users\Ricardo Fernández\source\repos\BowlingGameKata\BowlingGameKata\bin\Debug\BowlingGameKata.pdb
+C:\Users\Ricardo Fernández\source\repos\BowlingGameKata\BowlingGameKata\obj\Debug\BowlingGameKata.csprojAssemblyReference.cache
+C:\Users\Ricardo Fernández\source\repos\BowlingGameKata\BowlingGameKata\obj\Debug\BowlingGameKata.MarcadorBolos.resources
+C:\Users\Ricardo Fernández\source\repos\BowlingGameKata\BowlingGameKata\obj\Debug\BowlingGameKata.Properties.Resources.resources
+C:\Users\Ricardo Fernández\source\repos\BowlingGameKata\BowlingGameKata\obj\Debug\BowlingGameKata.csproj.GenerateResource.cache
+C:\Users\Ricardo Fernández\source\repos\BowlingGameKata\BowlingGameKata\obj\Debug\BowlingGameKata.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Fernández\source\repos\BowlingGameKata\BowlingGameKata\obj\Debug\BowlingGameKata.exe
+C:\Users\Ricardo Fernández\source\repos\BowlingGameKata\BowlingGameKata\obj\Debug\BowlingGameKata.pdb
